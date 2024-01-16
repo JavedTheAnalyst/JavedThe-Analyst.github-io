@@ -1,6 +1,6 @@
 Bike Sales Dashboard in MS Excel
 
-I created this by using a variety of data visualization techniques to provide insights into bike sales by marital status, region, and education status.
+I created this dashboard by using a variety of data visualization techniques to provide insights into bike sales by marital status, region, and education status.
 
 The dashboard is designed to be easy to read and understand, with clear labels and descriptions for all of the visualizations. It also includes slicers, which allow users to interact with the data and filter the visualizations. This allows users to see the data in different ways and identify trends that they might not have noticed otherwise.
 
